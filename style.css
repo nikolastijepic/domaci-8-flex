@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+body {
+	font-family: Arial, sans-serif;
+}
+
 .navigation-list {
 	height: 60px;
 	list-style: none;
